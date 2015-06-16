@@ -3,9 +3,7 @@
 @import '_pageContent.scss';
 @import '_bottomContent.scss';
 
-a {
-	text-decoration: none;
-}
+a { text-decoration: none; }
 
 .wholePage {
 	width: $wholePageWidth;
