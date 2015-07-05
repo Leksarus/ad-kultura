@@ -1,0 +1,91 @@
+.mainContent {
+	width: 1430px;
+	height: $mainContentHeight;
+	float: right;
+}
+.mouse {
+	float: right;
+	width: 214px;
+	margin-right: 1px;
+}
+.form {
+	float: right;
+	width: 213px;
+	height: 420px;
+	padding-top: 30px;
+	padding-left: 30px;
+	border-left: 3px ridge $frameColor;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color: $menuFontColor;
+
+}
+.inputArea {
+	width: 180px;
+	height: 25px;
+	border-radius: 7px;
+}
+.formTxt {
+	font-size: 14px;
+	line-height: 30px;
+
+}
+.register {
+	@extend .inputArea;
+	background-color: $register;
+	height: 30px;
+	margin-top: 30px;
+	font-size: 16px; 
+	font-weight: bold;
+	color: #7E8994;
+}
+
+.middleRightContent {
+	float: right;
+	height: 455px;
+	width: 400px;
+	background-color: $midRightBackground;
+}
+
+.mainInfoTable {
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.tableHeader {
+	padding-left: 30px;
+	padding-bottom: 20px;
+	font-size: 25px;
+	line-height: 30px;
+}
+.tableInfo1 {
+	padding-left: 30px;
+	font-size: 16px;
+	vertical-align: top;
+	font-weight: bold;
+}
+.dateNumber {
+	font-size: 20px;
+	border-right: 1px solid #000;
+	padding-right: 20px;
+}
+.dateMonth {
+	font-size: 15px;
+}
+.tableInfo2 {
+	padding-left: 30px;
+}
+.emptyRow {
+	height: 40px;
+}
+.readMore {
+	color: $square;
+}
+
+
+.middleLeftContent {
+	float: left;
+	height: 458px;
+	width: 550px;
+}

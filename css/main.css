@@ -1,0 +1,307 @@
+/* line 1, ../sass/_header.scss */
+.logoRight {
+  float: right;
+  width: 430px;
+  height: 300px;
+}
+
+/* line 6, ../sass/_header.scss */
+.logoMiddle {
+  float: right;
+  width: 450px;
+  height: 142px;
+}
+
+/* line 11, ../sass/_header.scss */
+.logoLeft {
+  margin-right: 50px;
+  float: right;
+  width: 600px;
+  height: 140px;
+}
+
+/* line 17, ../sass/_header.scss */
+.menu {
+  width: 1118px;
+  height: 155px;
+  float: left;
+}
+
+/* line 22, ../sass/_header.scss */
+.leftSquare {
+  float: left;
+  width: 155px;
+  height: 160px;
+  background-color: #d34966;
+}
+
+/* line 29, ../sass/_header.scss */
+div .menu ul {
+  list-style: none;
+}
+/* line 31, ../sass/_header.scss */
+div .menu ul li {
+  height: 120px;
+  border-right: 1px solid #CCDEF0;
+  float: left;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #424242;
+  padding-right: 27px;
+  padding-left: 27px;
+  line-height: 110px;
+}
+/* line 43, ../sass/_header.scss */
+div .menu ul li:hover a {
+  color: white;
+}
+/* line 46, ../sass/_header.scss */
+div .menu ul li:hover {
+  background-color: #424242;
+  height: 119px;
+}
+
+/* line 52, ../sass/_header.scss */
+.a {
+  color: #424242;
+}
+
+/* line 55, ../sass/_header.scss */
+.blog {
+  padding-right: 10px;
+  width: 1385px;
+  height: 190px;
+  float: right;
+}
+
+/* line 61, ../sass/_header.scss */
+.blogButton {
+  background: linear-gradient(to right, #d9e7f1, #ecf4fa);
+  padding-top: 10px;
+  padding-left: 30px;
+  margin-right: 190px;
+  margin-top: 43px;
+  float: right;
+  width: 225px;
+  height: 135px;
+  border-top-right-radius: 75px;
+  border-bottom-right-radius: 75px;
+  color: #424242;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+/* line 78, ../sass/_header.scss */
+.blogTxt {
+  font-size: 50px;
+}
+
+/* line 81, ../sass/_header.scss */
+.pointer {
+  width: 20px;
+  height: 25px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+/* line 1, ../sass/_pageContent.scss */
+.mainContent {
+  width: 1430px;
+  height: 456px;
+  float: right;
+}
+
+/* line 6, ../sass/_pageContent.scss */
+.mouse {
+  float: right;
+  width: 214px;
+  margin-right: 1px;
+}
+
+/* line 11, ../sass/_pageContent.scss */
+.form {
+  float: right;
+  width: 213px;
+  height: 420px;
+  padding-top: 30px;
+  padding-left: 30px;
+  border-left: 3px ridge #d5d1d1;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #424242;
+}
+
+/* line 22, ../sass/_pageContent.scss */
+.inputArea, .register {
+  width: 180px;
+  height: 25px;
+  border-radius: 7px;
+}
+
+/* line 27, ../sass/_pageContent.scss */
+.formTxt {
+  font-size: 14px;
+  line-height: 30px;
+}
+
+/* line 32, ../sass/_pageContent.scss */
+.register {
+  background-color: #e7e4e3;
+  height: 30px;
+  margin-top: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #7E8994;
+}
+
+/* line 42, ../sass/_pageContent.scss */
+.middleRightContent {
+  float: right;
+  height: 455px;
+  width: 400px;
+  background-color: #f1f2f6;
+}
+
+/* line 49, ../sass/_pageContent.scss */
+.mainInfoTable {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+/* line 56, ../sass/_pageContent.scss */
+.tableHeader {
+  padding-left: 30px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+/* line 62, ../sass/_pageContent.scss */
+.tableInfo1 {
+  padding-left: 30px;
+  font-size: 16px;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+/* line 68, ../sass/_pageContent.scss */
+.dateNumber {
+  font-size: 20px;
+  border-right: 1px solid #000;
+  padding-right: 20px;
+}
+
+/* line 73, ../sass/_pageContent.scss */
+.dateMonth {
+  font-size: 15px;
+}
+
+/* line 76, ../sass/_pageContent.scss */
+.tableInfo2 {
+  padding-left: 30px;
+}
+
+/* line 79, ../sass/_pageContent.scss */
+.emptyRow {
+  height: 40px;
+}
+
+/* line 82, ../sass/_pageContent.scss */
+.readMore {
+  color: #d34966;
+}
+
+/* line 87, ../sass/_pageContent.scss */
+.middleLeftContent {
+  float: left;
+  height: 458px;
+  width: 550px;
+}
+
+/* line 3, ../sass/_bottomContent.scss */
+.bottomFirstLine {
+  clear: both;
+  height: 100px;
+  background-color: #424242;
+  width: 100%;
+  margin: auto;
+  color: #fff;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+/* line 14, ../sass/_bottomContent.scss */
+.bottomFirstLineLeft {
+  float: left;
+  height: 100px;
+  line-height: 100px;
+  width: 600px;
+  margin-left: 180px;
+}
+
+/* line 21, ../sass/_bottomContent.scss */
+.bottomFirstLineRight {
+  float: right;
+  height: 100px;
+  line-height: 100px;
+  margin-right: 210px;
+}
+
+/* line 28, ../sass/_bottomContent.scss */
+.bottomSecondLine {
+  clear: both;
+  height: 150px;
+  width: 100%;
+  margin: auto;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: none;
+  background-color: #4a4a4a;
+}
+
+/* line 39, ../sass/_bottomContent.scss */
+.bottomSecondLineLeft {
+  float: left;
+  width: 600px;
+  margin-left: 180px;
+  padding-top: 45px;
+}
+
+/* line 45, ../sass/_bottomContent.scss */
+.bottomSecondLineRight {
+  float: right;
+  margin-right: 195px;
+}
+
+/* line 50, ../sass/_bottomContent.scss */
+div .bottomSecondLineRight ul {
+  list-style: none;
+}
+/* line 52, ../sass/_bottomContent.scss */
+div .bottomSecondLineRight ul li {
+  line-height: 100px;
+  float: left;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+/* line 58, ../sass/_bottomContent.scss */
+div .bottomSecondLineRight ul a {
+  color: #fff;
+}
+
+/* line 6, ../sass/main.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 8, ../sass/main.scss */
+.wholePage {
+  width: 1550px;
+  height: 950px;
+  margin: auto;
+  clear: both;
+}
